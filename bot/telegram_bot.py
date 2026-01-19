@@ -11,7 +11,6 @@ from config.config import TELEGRAM_BOT_TOKEN
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Welcome!! Type /learn to get learning material")
 
-
 async def learn(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.message.from_user.id
     material = get_next_recommendation(user_id)
