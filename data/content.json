@@ -1,66 +1,301 @@
 [
   {
     "id": 1,
-    "topic": "Binary Search - Video Lecture",
+    "topic": "Binary Search - Video",
     "difficulty": 1,
     "type": "video",
     "link": "https://www.youtube.com/watch?v=MHf6awe89xw"
   },
-
   {
     "id": 2,
     "topic": "Binary Search - Theory",
     "difficulty": 2,
     "type": "article",
-    "link": "https://www.geeksforgeeks.org/dsa/binary-search/"
+    "link": "https://www.geeksforgeeks.org/binary-search/"
   },
 
   {
     "id": 3,
-    "topic": "Quick Sort",
-    "difficulty": 2,
+    "topic": "Linear Search - Video",
+    "difficulty": 1,
     "type": "video",
-    "link": "https://www.youtube.com/watch?v=8MNB0Mba_Dc"
+    "link": "https://www.youtube.com/watch?v=_Hra1FDrTE8"
   },
-
   {
     "id": 4,
-    "topic": "Quick Sort",
-    "difficulty": 3,
+    "topic": "Linear Search - Theory",
+    "difficulty": 1,
     "type": "article",
-    "link": "https://www.geeksforgeeks.org/dsa/quick-sort-algorithm/"
-  },
-  
-  {
-    "id": 5,
-    "topic": "Merge Sort",
-    "difficulty": 4,
-    "type": "video",
-    "link": "https://www.youtube.com/watch?v=cQDtOBTy7_Y"
+    "link": "https://www.geeksforgeeks.org/linear-search/"
   },
 
   {
+    "id": 5,
+    "topic": "Selection Sort - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=g-PGLbMth_g"
+  },
+  {
     "id": 6,
-    "topic": "Merge Sort",
-    "difficulty": 4,
+    "topic": "Selection Sort - Theory",
+    "difficulty": 2,
     "type": "article",
-    "link": "https://www.geeksforgeeks.org/dsa/merge-sort/"
+    "link": "https://www.geeksforgeeks.org/selection-sort/"
   },
 
   {
     "id": 7,
-    "topic": "Bubble sort",
+    "topic": "Bubble Sort - Video",
     "difficulty": 2,
     "type": "video",
-    "link": "https://www.geeksforgeeks.org/dsa/bubble-sort-algorithm/"
+    "link": "https://www.youtube.com/watch?v=xli_FI7CuzA"
+  },
+  {
+    "id": 8,
+    "topic": "Bubble Sort - Theory",
+    "difficulty": 2,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/bubble-sort/"
   },
 
   {
-    "id": 8,
-    "topic": "Bubble sort",
+    "id": 9,
+    "topic": "Insertion Sort - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=JU767SDMDvA"
+  },
+  {
+    "id": 10,
+    "topic": "Insertion Sort - Theory",
+    "difficulty": 2,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/insertion-sort/"
+  },
+
+  {
+    "id": 11,
+    "topic": "Merge Sort - Video",
     "difficulty": 3,
-    "type": "article"
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=cQDtOBTy7_Y"
+  },
+  {
+    "id": 12,
+    "topic": "Merge Sort - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/merge-sort/"
+  },
+
+  {
+    "id": 13,
+    "topic": "Quick Sort - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=8MNB0Mba_Dc"
+  },
+  {
+    "id": 14,
+    "topic": "Quick Sort - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/quick-sort/"
+  },
+
+  {
+    "id": 15,
+    "topic": "Heap Sort - Video",
+    "difficulty": 4,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=HqPJF2L5h9U"
+  },
+  {
+    "id": 16,
+    "topic": "Heap Sort - Theory",
+    "difficulty": 4,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/heap-sort/"
+  },
+
+  {
+    "id": 17,
+    "topic": "Counting Sort - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=OKd534EWcdk"
+  },
+  {
+    "id": 18,
+    "topic": "Counting Sort - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/counting-sort/"
+  },
+
+  {
+    "id": 19,
+    "topic": "Radix Sort - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=nu4gDuFabIM"
+  },
+  {
+    "id": 20,
+    "topic": "Radix Sort - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/radix-sort/"
+  },
+
+  {
+    "id": 21,
+    "topic": "Linked List Basics",
+    "difficulty": 2,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/linked-list-set-1-introduction/"
+  },
+  {
+    "id": 22,
+    "topic": "Linked List - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=njTh_OwMljA"
+  },
+
+  {
+    "id": 23,
+    "topic": "Stack - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=wjI1WNcIntg"
+  },
+  {
+    "id": 24,
+    "topic": "Stack - Theory",
+    "difficulty": 2,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/stack-data-structure/"
+  },
+
+  {
+    "id": 25,
+    "topic": "Queue - Video",
+    "difficulty": 2,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=okr-XE8yTO8"
+  },
+  {
+    "id": 26,
+    "topic": "Queue - Theory",
+    "difficulty": 2,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/queue-data-structure/"
+  },
+
+  {
+    "id": 27,
+    "topic": "Binary Tree Basics",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/binary-tree-data-structure/"
+  },
+  {
+    "id": 28,
+    "topic": "Binary Tree Traversals - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=9RHO6jU--GU"
+  },
+
+  {
+    "id": 29,
+    "topic": "Binary Search Tree (BST) - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=p7-9eJI-4nY"
+  },
+  {
+    "id": 30,
+    "topic": "Binary Search Tree (BST) - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+  },
+
+  {
+    "id": 31,
+    "topic": "Graph Basics - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=pcKY4hjDrxk"
+  },
+  {
+    "id": 32,
+    "topic": "Graph Basics - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"
+  },
+
+  {
+    "id": 33,
+    "topic": "DFS - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=TIbUeeksXcI"
+  },
+  {
+    "id": 34,
+    "topic": "DFS - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/"
+  },
+
+  {
+    "id": 35,
+    "topic": "BFS - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=xlVX7dXLS64"
+  },
+  {
+    "id": 36,
+    "topic": "BFS - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/"
+  },
+
+  {
+    "id": 37,
+    "topic": "Dynamic Programming Basics",
+    "difficulty": 4,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/dynamic-programming/"
+  },
+  {
+    "id": 38,
+    "topic": "DP - Video Introduction",
+    "difficulty": 4,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=oBt53YbR9Kk"
+  },
+
+  {
+    "id": 39,
+    "topic": "Greedy Algorithms - Theory",
+    "difficulty": 3,
+    "type": "article",
+    "link": "https://www.geeksforgeeks.org/greedy-algorithms/"
+  },
+  {
+    "id": 40,
+    "topic": "Greedy Algorithms - Video",
+    "difficulty": 3,
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=j_SYLg10nuM"
   }
-
-
 ]
